@@ -26,6 +26,8 @@ Este repositório contém 4 arquivos contendo os códigos relacionados diretamen
   - ```KeplerK2TessQuery.py```: Mostra como foi feita a automatização da seleção dos dados dos exoplanetas disponíveis na base de dados do NASA Exoplanet Archive que foram detectados pelas missões K2, Kepler e TESS. É uma versão automatizada do notebook ```download_dados.ipynb```;
   - ```tess_sectors.py```: Mostra como foi feita a busca por quais setores do TESS as estrelas hospedeiras (que estão nesta base de dados) foram observadas e quais deles possuem curvas de luz.
  
+![plot](kepler_k2_tess.png)
+ 
 ## Autores
 - __[João Aires (UFRN)](http://lattes.cnpq.br/2805900511454723)__
 - __[Leonardo Andrade de Almeida (ECT/UFRN)](http://lattes.cnpq.br/7812463045514059)__
@@ -33,3 +35,4 @@ Este repositório contém 4 arquivos contendo os códigos relacionados diretamen
 ## GitHub
 - __[jvflaires](https://github.com/jvflaires)__
 - __[titanufrn](https://github.com/titanufrn)__
+
